@@ -1,4 +1,4 @@
-# My First API
+# First-Api
 
 A simple Express.js API project.
 
@@ -9,8 +9,8 @@ This is a basic Node.js API built with Express.js framework.
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd my-first-api
+git clone https://github.com/Ig-Huzaifa-Khan/First-Api.git
+cd First-Api
 ```
 
 2. Install dependencies
